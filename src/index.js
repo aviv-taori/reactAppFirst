@@ -67,7 +67,7 @@ function Page() {
   )
 }
 
-// const page = Page()
+const page = Page()
 // console.log(page)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
