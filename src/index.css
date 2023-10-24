@@ -3,6 +3,10 @@ html, body {
   margin: 0 ;
 }
 
+.logo {
+  width: 100px;
+}
+
 .nav {
   padding: 15px;
   display: flex;
